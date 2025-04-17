@@ -1,0 +1,17 @@
+# Node
+node_modules/
+.env
+
+# React build
+client/build/
+client/node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
